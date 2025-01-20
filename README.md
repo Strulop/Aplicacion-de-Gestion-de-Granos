@@ -15,7 +15,7 @@ Una aplicación móvil desarrollada en Android Studio para gestionar el registro
 
 ## 📦 Descarga del Proyecto
 El archivo comprimido del proyecto está disponible para su descarga desde el siguiente enlace:  
-[Descargar archivo](https://drive.google.com/file/d/1J0_FOwLNW_ugpeDltcYXYGY-vAVOd0aY/view?usp=sharing)
+[Descargar archivo](https://drive.google.com/file/d/1naAoWumjaqqjnemjC0c8FBNa6CHm2Rig/view?usp=sharing)
 
 ---
 
