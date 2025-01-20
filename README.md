@@ -37,14 +37,7 @@ El archivo comprimido del proyecto está disponible para su descarga desde el si
 ## 🔧 Tecnologías Utilizadas
 - Lenguaje: **Kotlin**.
 - Framework: **Android Studio**.
-- Base de datos: *(Indica si usaste SQLite, Firebase, o similar).*
-
----
-
-## 🤔 Posibles Mejoras
-- Implementar un sistema de autenticación para usuarios.
-- Agregar gráficos o estadísticas para visualizar los datos.
-- Mejorar el diseño con Material Design.
+- Base de datos: *(SQLite).*
 
 ---
 
